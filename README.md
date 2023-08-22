@@ -6,7 +6,7 @@
 
 
 
-:wink: Hi, my name is Animesh and I'm excited to learn about web development and blockchain. I have some experience with basic web development concepts like <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">, <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">, <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">, and Node.js, but I'm new to blockchain technology. I'm interested in learning how blockchain can be used to create decentralized applications (DApps) and smart contracts. I'm also interested in learning how blockchain can be used to create secure and transparent systems for storing data. I'm looking forward to learning more about these topics and how they can be used to create innovative solutions :wink:.
+:wink: Hi, my name is Animesh and I'm excited to learn about web development and blockchain. I have some experience with basic web development concepts like <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">, <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">, <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">, but I'm new to blockchain technology. I'm interested in learning how blockchain can be used to create decentralized applications (DApps) and smart contracts. I'm also interested in learning how blockchain can be used to create secure and transparent systems for storing data. I'm looking forward to learning more about these topics and how they can be used to create innovative solutions :wink:.
 
 
 
